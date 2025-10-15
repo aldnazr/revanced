@@ -7,7 +7,7 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-build-mode = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-excluded-patches = "'Swipe controls' 'Hide player overlay buttons' 'Hide Shorts components' 'Hide timestamp' 'Custom player overlay opacity' 'Wide search bar' 'Shorts autoplay' 'Open Shorts in regular player' 'Change start page' 'Disable resuming Shorts on startup' 'Theme' 'Spoof device dimensions' 'GmsCore support'"
+excluded-patches = "'Swipe controls' 'Disable auto captions' 'Custom branding' 'Change header' 'Hide video action buttons' 'Navigation buttons' 'Hide player overlay buttons' 'Change form factor' 'Disable rolling number animations' 'Hide Shorts components' 'Hide timestamp' 'Custom player overlay opacity' 'Wide search bar' 'Open Shorts in regular player' 'Change start page' 'Theme' 'Alternative thumbnails' 'Enable debugging' 'Spoof device dimensions'"
+
 
